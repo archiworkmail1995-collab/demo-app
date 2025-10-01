@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayush\\source\\repos\\VehicleTestDrive\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{992DF070-774E-4524-8115-9B4737EABE28}|VehicleApi\\VehicleApi.csproj|c:\\users\\ayush\\source\\repos\\vehicletestdrive\\vehicleapi\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{992DF070-774E-4524-8115-9B4737EABE28}|VehicleApi\\VehicleApi.csproj|solutionrelative:vehicleapi\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{992DF070-774E-4524-8115-9B4737EABE28}|VehicleApi\\VehicleApi.csproj|c:\\users\\ayush\\source\\repos\\vehicletestdrive\\vehicleapi\\data\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{992DF070-774E-4524-8115-9B4737EABE28}|VehicleApi\\VehicleApi.csproj|solutionrelative:vehicleapi\\data\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7EE73D-C4F4-4E38-B792-6E129A4107DE}|CustomersApi\\CustomersApi.csproj|c:\\users\\ayush\\source\\repos\\vehicletestdrive\\customersapi\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7EE73D-C4F4-4E38-B792-6E129A4107DE}|CustomersApi\\CustomersApi.csproj|solutionrelative:customersapi\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7EE73D-C4F4-4E38-B792-6E129A4107DE}|CustomersApi\\CustomersApi.csproj|c:\\users\\ayush\\source\\repos\\vehicletestdrive\\customersapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7EE73D-C4F4-4E38-B792-6E129A4107DE}|CustomersApi\\CustomersApi.csproj|solutionrelative:customersapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7EE73D-C4F4-4E38-B792-6E129A4107DE}|CustomersApi\\CustomersApi.csproj|c:\\users\\ayush\\source\\repos\\vehicletestdrive\\customersapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7EE73D-C4F4-4E38-B792-6E129A4107DE}|CustomersApi\\CustomersApi.csproj|solutionrelative:customersapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{992DF070-774E-4524-8115-9B4737EABE28}|VehicleApi\\VehicleApi.csproj|c:\\users\\ayush\\source\\repos\\vehicletestdrive\\vehicleapi\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{992DF070-774E-4524-8115-9B4737EABE28}|VehicleApi\\VehicleApi.csproj|solutionrelative:vehicleapi\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{992DF070-774E-4524-8115-9B4737EABE28}|VehicleApi\\VehicleApi.csproj|c:\\users\\ayush\\source\\repos\\vehicletestdrive\\vehicleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{992DF070-774E-4524-8115-9B4737EABE28}|VehicleApi\\VehicleApi.csproj|solutionrelative:vehicleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7EE73D-C4F4-4E38-B792-6E129A4107DE}|CustomersApi\\CustomersApi.csproj|c:\\users\\ayush\\source\\repos\\vehicletestdrive\\customersapi\\customersapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9A7EE73D-C4F4-4E38-B792-6E129A4107DE}|CustomersApi\\CustomersApi.csproj|solutionrelative:customersapi\\customersapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7EE73D-C4F4-4E38-B792-6E129A4107DE}|CustomersApi\\CustomersApi.csproj|c:\\users\\ayush\\source\\repos\\vehicletestdrive\\customersapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7EE73D-C4F4-4E38-B792-6E129A4107DE}|CustomersApi\\CustomersApi.csproj|solutionrelative:customersapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7EE73D-C4F4-4E38-B792-6E129A4107DE}|CustomersApi\\CustomersApi.csproj|c:\\users\\ayush\\source\\repos\\vehicletestdrive\\customersapi\\data\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7EE73D-C4F4-4E38-B792-6E129A4107DE}|CustomersApi\\CustomersApi.csproj|solutionrelative:customersapi\\data\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7EE73D-C4F4-4E38-B792-6E129A4107DE}|CustomersApi\\CustomersApi.csproj|c:\\users\\ayush\\source\\repos\\vehicletestdrive\\customersapi\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7EE73D-C4F4-4E38-B792-6E129A4107DE}|CustomersApi\\CustomersApi.csproj|solutionrelative:customersapi\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7EE73D-C4F4-4E38-B792-6E129A4107DE}|CustomersApi\\CustomersApi.csproj|c:\\users\\ayush\\source\\repos\\vehicletestdrive\\customersapi\\interfaces\\icustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7EE73D-C4F4-4E38-B792-6E129A4107DE}|CustomersApi\\CustomersApi.csproj|solutionrelative:customersapi\\interfaces\\icustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{992DF070-774E-4524-8115-9B4737EABE28}|VehicleApi\\VehicleApi.csproj|c:\\users\\ayush\\source\\repos\\vehicletestdrive\\vehicleapi\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{992DF070-774E-4524-8115-9B4737EABE28}|VehicleApi\\VehicleApi.csproj|solutionrelative:vehicleapi\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{992DF070-774E-4524-8115-9B4737EABE28}|VehicleApi\\VehicleApi.csproj|c:\\users\\ayush\\source\\repos\\vehicletestdrive\\vehicleapi\\interfaces\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{992DF070-774E-4524-8115-9B4737EABE28}|VehicleApi\\VehicleApi.csproj|solutionrelative:vehicleapi\\interfaces\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{992DF070-774E-4524-8115-9B4737EABE28}|VehicleApi\\VehicleApi.csproj|c:\\users\\ayush\\source\\repos\\vehicletestdrive\\vehicleapi\\vehicleapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{992DF070-774E-4524-8115-9B4737EABE28}|VehicleApi\\VehicleApi.csproj|solutionrelative:vehicleapi\\vehicleapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AAAB4C4-5114-47E0-A683-4C190932279C}|ReservationsApi\\ReservationsApi.csproj|c:\\users\\ayush\\source\\repos\\vehicletestdrive\\reservationsapi\\reservationsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6AAAB4C4-5114-47E0-A683-4C190932279C}|ReservationsApi\\ReservationsApi.csproj|solutionrelative:reservationsapi\\reservationsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7EE73D-C4F4-4E38-B792-6E129A4107DE}|CustomersApi\\CustomersApi.csproj|c:\\users\\ayush\\source\\repos\\vehicletestdrive\\customersapi\\migrations\\20250924181947_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7EE73D-C4F4-4E38-B792-6E129A4107DE}|CustomersApi\\CustomersApi.csproj|solutionrelative:customersapi\\migrations\\20250924181947_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ayush\\source\\repos\\VehicleTestDrive\\VehicleApi\\Data\\ApiDbContext.cs",
+              "RelativeDocumentMoniker": "VehicleApi\\Data\\ApiDbContext.cs",
+              "ToolTip": "C:\\Users\\ayush\\source\\repos\\VehicleTestDrive\\VehicleApi\\Data\\ApiDbContext.cs",
+              "RelativeToolTip": "VehicleApi\\Data\\ApiDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T10:26:52.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\ayush\\source\\repos\\VehicleTestDrive\\CustomersApi\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "CustomersApi\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\ayush\\source\\repos\\VehicleTestDrive\\CustomersApi\\Services\\CustomerService.cs",
+              "RelativeToolTip": "CustomersApi\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T18:28:50.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\ayush\\source\\repos\\VehicleTestDrive\\CustomersApi\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CustomersApi\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\ayush\\source\\repos\\VehicleTestDrive\\CustomersApi\\Models\\Customer.cs",
+              "RelativeToolTip": "CustomersApi\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T18:44:12.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\ayush\\source\\repos\\VehicleTestDrive\\CustomersApi\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "CustomersApi\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\ayush\\source\\repos\\VehicleTestDrive\\CustomersApi\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "CustomersApi\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T19:22:17.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\ayush\\source\\repos\\VehicleTestDrive\\CustomersApi\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "CustomersApi\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\ayush\\source\\repos\\VehicleTestDrive\\CustomersApi\\Models\\Vehicle.cs",
+              "RelativeToolTip": "CustomersApi\\Models\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T18:22:49.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICustomer.cs",
+              "DocumentMoniker": "C:\\Users\\ayush\\source\\repos\\VehicleTestDrive\\CustomersApi\\Interfaces\\ICustomer.cs",
+              "RelativeDocumentMoniker": "CustomersApi\\Interfaces\\ICustomer.cs",
+              "ToolTip": "C:\\Users\\ayush\\source\\repos\\VehicleTestDrive\\CustomersApi\\Interfaces\\ICustomer.cs",
+              "RelativeToolTip": "CustomersApi\\Interfaces\\ICustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T18:25:54.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ayush\\source\\repos\\VehicleTestDrive\\CustomersApi\\Program.cs",
+              "RelativeDocumentMoniker": "CustomersApi\\Program.cs",
+              "ToolTip": "C:\\Users\\ayush\\source\\repos\\VehicleTestDrive\\CustomersApi\\Program.cs",
+              "RelativeToolTip": "CustomersApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T19:19:39.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VehicleService.cs",
+              "DocumentMoniker": "C:\\Users\\ayush\\source\\repos\\VehicleTestDrive\\VehicleApi\\Services\\VehicleService.cs",
+              "RelativeDocumentMoniker": "VehicleApi\\Services\\VehicleService.cs",
+              "ToolTip": "C:\\Users\\ayush\\source\\repos\\VehicleTestDrive\\VehicleApi\\Services\\VehicleService.cs*",
+              "RelativeToolTip": "VehicleApi\\Services\\VehicleService.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T14:18:15.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ayush\\source\\repos\\VehicleTestDrive\\VehicleApi\\Program.cs",
+              "RelativeDocumentMoniker": "VehicleApi\\Program.cs",
+              "ToolTip": "C:\\Users\\ayush\\source\\repos\\VehicleTestDrive\\VehicleApi\\Program.cs",
+              "RelativeToolTip": "VehicleApi\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T14:59:02.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApiDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ayush\\source\\repos\\VehicleTestDrive\\CustomersApi\\Data\\ApiDbContext.cs",
+              "RelativeDocumentMoniker": "CustomersApi\\Data\\ApiDbContext.cs",
+              "ToolTip": "C:\\Users\\ayush\\source\\repos\\VehicleTestDrive\\CustomersApi\\Data\\ApiDbContext.cs",
+              "RelativeToolTip": "CustomersApi\\Data\\ApiDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T17:18:09.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VehiclesController.cs",
+              "DocumentMoniker": "C:\\Users\\ayush\\source\\repos\\VehicleTestDrive\\VehicleApi\\Controllers\\VehiclesController.cs",
+              "RelativeDocumentMoniker": "VehicleApi\\Controllers\\VehiclesController.cs",
+              "ToolTip": "C:\\Users\\ayush\\source\\repos\\VehicleTestDrive\\VehicleApi\\Controllers\\VehiclesController.cs",
+              "RelativeToolTip": "VehicleApi\\Controllers\\VehiclesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T15:02:41.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomersApi.csproj",
+              "DocumentMoniker": "C:\\Users\\ayush\\source\\repos\\VehicleTestDrive\\CustomersApi\\CustomersApi.csproj",
+              "RelativeDocumentMoniker": "CustomersApi\\CustomersApi.csproj",
+              "ToolTip": "C:\\Users\\ayush\\source\\repos\\VehicleTestDrive\\CustomersApi\\CustomersApi.csproj",
+              "RelativeToolTip": "CustomersApi\\CustomersApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-04T14:25:06.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250924181947_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ayush\\source\\repos\\VehicleTestDrive\\CustomersApi\\Migrations\\20250924181947_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CustomersApi\\Migrations\\20250924181947_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ayush\\source\\repos\\VehicleTestDrive\\CustomersApi\\Migrations\\20250924181947_InitialCreate.cs",
+              "RelativeToolTip": "CustomersApi\\Migrations\\20250924181947_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T18:19:47.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\ayush\\source\\repos\\VehicleTestDrive\\VehicleApi\\Interfaces\\IVehicle.cs",
+              "RelativeDocumentMoniker": "VehicleApi\\Interfaces\\IVehicle.cs",
+              "ToolTip": "C:\\Users\\ayush\\source\\repos\\VehicleTestDrive\\VehicleApi\\Interfaces\\IVehicle.cs",
+              "RelativeToolTip": "VehicleApi\\Interfaces\\IVehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T14:20:41.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\ayush\\source\\repos\\VehicleTestDrive\\VehicleApi\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "VehicleApi\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\ayush\\source\\repos\\VehicleTestDrive\\VehicleApi\\Models\\Vehicle.cs",
+              "RelativeToolTip": "VehicleApi\\Models\\Vehicle.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T14:27:24.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VehicleApi.csproj",
+              "DocumentMoniker": "C:\\Users\\ayush\\source\\repos\\VehicleTestDrive\\VehicleApi\\VehicleApi.csproj",
+              "RelativeDocumentMoniker": "VehicleApi\\VehicleApi.csproj",
+              "ToolTip": "C:\\Users\\ayush\\source\\repos\\VehicleTestDrive\\VehicleApi\\VehicleApi.csproj",
+              "RelativeToolTip": "VehicleApi\\VehicleApi.csproj",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwPQAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-04T14:25:06.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReservationsApi.csproj",
+              "DocumentMoniker": "C:\\Users\\ayush\\source\\repos\\VehicleTestDrive\\ReservationsApi\\ReservationsApi.csproj",
+              "RelativeDocumentMoniker": "ReservationsApi\\ReservationsApi.csproj",
+              "ToolTip": "C:\\Users\\ayush\\source\\repos\\VehicleTestDrive\\ReservationsApi\\ReservationsApi.csproj",
+              "RelativeToolTip": "ReservationsApi\\ReservationsApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-04T14:25:04.347Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
